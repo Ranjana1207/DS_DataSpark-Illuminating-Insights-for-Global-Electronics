@@ -1,8 +1,6 @@
 # DS_DataSpark-Illuminating-Insights-for-Global-Electronics
 
-Domain
-
-Data Analytics in the Electronics Industry
+Domain: Data Analytics in the Electronics Industry
 
 SKILL-TAKEAWAY
 
@@ -52,8 +50,9 @@ Customer Analysis and Demographic Distribution:
 
 Analyze the distribution of customers based on gender, age (calculated from birthday), location (city, state, country, continent).
 
+![image](https://github.com/user-attachments/assets/6aa11f36-41fd-4fed-a218-034e30486627)
 
-!![image](https://github.com/user-attachments/assets/8d415d1e-80c8-4b67-9a43-94c8a590ad0a)
+
 
 
 Purchase Patterns:
