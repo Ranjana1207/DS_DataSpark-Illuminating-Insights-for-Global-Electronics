@@ -50,7 +50,8 @@ Customer Analysis and Demographic Distribution:
 
 Analyze the distribution of customers based on gender, age (calculated from birthday), location (city, state, country, continent).
 
-![image](https://github.com/user-attachments/assets/6aa11f36-41fd-4fed-a218-034e30486627)
+![Genders pic](https://github.com/user-attachments/assets/09c8435d-bcc4-4a60-833f-683e7e4894a8)
+
 
 
 
