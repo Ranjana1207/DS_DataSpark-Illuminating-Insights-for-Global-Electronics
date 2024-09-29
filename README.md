@@ -60,23 +60,34 @@ Purchase Patterns:
 
 Identify purchasing patterns such as average order value, frequency of purchases, and preferred products.
 
-!![image](https://github.com/user-attachments/assets/3cff4a0a-40c1-44fb-a9fd-591e24858cbc)
-
-
 Segmentation:
 
 Segment customers based on demographics and purchasing behavior to identify key customer groups.
+
+![Cust con](https://github.com/user-attachments/assets/0f013201-ba02-450a-b5f9-3c24f4f7e79f)
+
 
 Sales Analysis
 
 Overall Sales Performance: Analyze total sales over time, identifying trends and seasonality Sales by Product: Evaluate which products are the top performers in terms of quantity sold and revenue generated. Sales by Store: Assess the performance of different stores based on sales data. Sales by Currency: Examine how different currencies impact sales figures, considering exchange rates.
 
-!![image](https://github.com/user-attachments/assets/90001568-9272-48e9-a84d-095e6d83a99b)
+![sales piv](https://github.com/user-attachments/assets/1e0aeced-fffb-444f-aba0-ed4fa3e47edd)
+
 
 
 Product Analysis
 
-Product Popularity: Identify the most and least popular products based on sales data. Profitability Analysis: Calculate profit margins for products by comparing unit cost and unit price. Category Analysis: Analyze sales performance across different product categories and subcategories. Store Analysis Store Performance: Evaluate store performance based on sales, size (square meters), and operational data (open date). Geographical Analysis: Analyze sales by store location to identify high-performing regions.
+Product Popularity: Identify the most and least popular products based on sales data. Profitability Analysis: Calculate profit margins for products by comparing unit cost and unit price. Category Analysis: Analyze sales performance across different product categories and subcategories.  regions.
+
+![costing](https://github.com/user-attachments/assets/1770646e-130f-44f0-b6ea-6870bbe50b33)
+
+
+Store Analysis Store Performance: 
+
+Evaluate store performance based on sales, size (square meters), and operational data (open date). Geographical Analysis: Analyze sales by store location to identify high-performing
+
+![stores](https://github.com/user-attachments/assets/4a8c4059-e342-4538-ac0a-fbacfad80cd7)
+
 
 Results:
 
